@@ -1,0 +1,20 @@
+{
+        int j =! (i);
+        while(1)
+        {
+                (a) Non_CS();
+                (b) flag[i] = TRUE;
+                (c) while (flag[j] = TRUE)
+                {
+                        if(turn == j)
+                        {
+                                flag[i] = FALSE;
+                                while(turn == j);
+                                flag[i] = TRUE;
+                        }
+                }
+                (d) <CS>
+                (e) flag[i] = FALSE;
+                turn - j;
+        }
+}
